@@ -18,10 +18,10 @@ Poko – Digital Marketing App Template is a powerful Responsive App Landing HTM
 <td align="center"><strong>Home three</strong></td>
 </tr>
 <tr>
-<td align="center"><a href="https://preview.gridtemplate.com/themes/benzin/index1.html" rel="nofollow"><img src="https://preview.gridtemplate.com/themes/benzin/images/home-1.jpg" alt="" style="max-width:100%;"></a></td>
-<td align="center"><a href="https://preview.gridtemplate.com/themes/benzin/index2.html" rel="nofollow"><img src="https://preview.gridtemplate.com/themes/benzin/images/home-2.jpg" alt="" style="max-width:100%;"></a></td>
-<td align="center"><a href="https://preview.gridtemplate.com/themes/benzin/about.html" rel="nofollow"><img src="https://preview.gridtemplate.com/themes/benzin/images/about.jpg" alt="" style="max-width:100%;"></a></td>
-  <td align="center"><a href="https://preview.gridtemplate.com/themes/benzin/about.html" rel="nofollow"><img src="https://preview.gridtemplate.com/themes/benzin/images/about.jpg" alt="" style="max-width:100%;"></a></td>
+<td align="center"><a href="https://preview.gridtemplate.com/themes/poko/index1.html" rel="nofollow"><img src="https://user-images.githubusercontent.com/82708956/128346119-f941e578-e9c2-4016-9eb8-114f5b67e1fc.jpg" alt="" style="max-width:100%;"></a></td>
+<td align="center"><a href="https://preview.gridtemplate.com/themes/poko/index2.html" rel="nofollow"><img src="https://user-images.githubusercontent.com/82708956/128346274-55811763-6560-45dc-8c23-a72471341e8d.png" alt="" style="max-width:100%;"></a></td>
+<td align="center"><a href="https://preview.gridtemplate.com/themes/poko/index1.html" rel="nofollow"><img src="https://user-images.githubusercontent.com/82708956/128346293-d5c1126c-4912-49b1-8363-c2b998f939e0.png" alt="" style="max-width:100%;"></a></td>
+  <td align="center"><a href="https://preview.gridtemplate.com/themes/poko/index1.html" rel="nofollow"><img src="https://user-images.githubusercontent.com/82708956/128346315-91330783-55ab-4564-85fb-ad4daf61fc8c.png" alt="" style="max-width:100%;"></a></td>
 </tr>
 
 
