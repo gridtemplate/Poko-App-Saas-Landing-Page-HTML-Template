@@ -59,7 +59,7 @@ Poko – Digital Marketing App Template is a powerful Responsive App Landing HTM
 <p>Download this template from any following options:</p>
 <ul>
 <li>Download from Github</li>
-<li>Clone the repository: <code>git clone https://github.com/gridtemplate/Benzin-Business-Consulting-HTML5-Template.git</code></li>
+<li>Clone the repository: <code>git clone https://github.com/gridtemplate/Poko-App-Saas-Landing-Page-HTML-Template.git</code></li>
 <li>Download from GridTemplate</li>
 </ul>
 
