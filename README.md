@@ -14,8 +14,8 @@ Poko – Digital Marketing App Template is a powerful Responsive App Landing HTM
 <tr>
 <td align="center"><strong>Default Homepage</strong></td>
 <td align="center"><strong>Home two</strong></td>
-<td align="center"><strong>Home two</strong></td>
 <td align="center"><strong>Home three</strong></td>
+<td align="center"><strong>Home Four</strong></td>
 </tr>
 <tr>
 <td align="center"><a href="https://preview.gridtemplate.com/themes/poko/index1.html" rel="nofollow"><img src="https://user-images.githubusercontent.com/82708956/128346119-f941e578-e9c2-4016-9eb8-114f5b67e1fc.jpg" alt="" style="max-width:100%;"></a></td>
